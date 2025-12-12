@@ -1,0 +1,4 @@
+body { background: #f7f7f7; color: #333; }
+input, select, button { padding: 8px; margin: 6px 0; width: 100%; max-width: 420px; }
+label { font-weight: 600; margin-top: 8px; display: inline-block; }
+button { width: auto; cursor: pointer; }
