@@ -1,24 +1,14 @@
-# Java
-*.class
-*.jar
-*.war
-target/
-build/
+# Java / Spring Boot
+/target/
+/*.jar
 
-# IDEs
+# Node / frontend
+/frontend/node_modules/
+/frontend/dist/
+
+# OS / IDE
+.DS_Store
 .vscode/
 .idea/
-*.iml
-
-# Node (if any frontend)
-node_modules/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# logs
 *.log
-
-# environment files (do not commit credentials)
-*.env
+.env
