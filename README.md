@@ -1,2 +1,12 @@
 # OASIS_INFOBYTE_Internship_Task
-Collection of my completed internship tasks from the OASIS INFOBYTE Java and Web Development program. This repo includes all project files, code solutions, and practice modules that showcase my work during the internship.
+
+Tasks and projects completed during the OASIS INFOBYTE Java Developer internship.
+
+This repository contains five projects:
+1. Online Reservation System
+2. Number Guessing Game
+3. ATM Interface
+4. Online Examination
+5. Digital Library Management
+
+Each project folder includes source code, database scripts (if any), and a README with setup and run instructions.
