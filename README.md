@@ -42,3 +42,62 @@ The backend stores the reservation records in memory and exposes endpoints to ad
 │
 └── docs/ # Instructions and screenshots
 └── instructions.md
+
+
+---
+
+## How to Run
+
+### Backend
+1. Open terminal and navigate to `backend/`
+2. Run:
+
+3. Backend runs at `http://localhost:8080`
+
+### Frontend
+1. Open terminal and navigate to `frontend/`
+2. Install dependencies:
+
+
+3. Start development server:
+
+
+4. Frontend runs at `http://localhost:5173`
+
+---
+
+
+## API Endpoints
+
+- **Create Reservation**
+
+
+- **Get All Reservations**
+
+
+---
+
+## Technologies Used
+
+**Frontend:** React, Vite, JavaScript, CSS  
+**Backend:** Java, Spring Boot, Maven  
+
+---
+
+## Author
+
+**Sainath Shirfule**  
+Backend Java Developer  
+GitHub: [github.com/saishirfule9](https://github.com/saishirfule9)  
+Email: saishirfule9@gmail.com
+
+---
+
+## Notes
+
+- This project is part of **Oasis Infobyte Internship Task 01**.  
+- It demonstrates a full-stack application with React frontend and Java backend.  
+- Screenshots and additional instructions are available in the `docs/` folder.
+
+
+
