@@ -24,3 +24,21 @@ The backend stores the reservation records in memory and exposes endpoints to ad
 ---
 
 ## Project Structure
+
+01_Online_Reservation_System/
+│
+├── frontend/ # React application (Vite)
+│ ├── src/
+│ ├── index.html
+│ └── package.json
+│
+├── backend/ # Spring Boot application
+│ ├── src/main/java/com/reservation/api/
+│ ├── src/main/resources/
+│ └── pom.xml
+│
+├── sql/ # Sample DB schema (optional)
+│ └── reservation_tables.sql
+│
+└── docs/ # Instructions and screenshots
+└── instructions.md
