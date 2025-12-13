@@ -1,0 +1,11 @@
+Steps to Run ATM Interface:
+
+1. Open terminal or command prompt
+2. Navigate to src folder
+3. Compile all Java files:
+   javac *.java
+4. Run the program:
+   java ATM
+5. Login using:
+   User ID: admin
+   PIN: 1234
