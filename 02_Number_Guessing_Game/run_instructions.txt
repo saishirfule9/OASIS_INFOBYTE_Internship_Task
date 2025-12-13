@@ -1,0 +1,9 @@
+Steps to Run the Number Guessing Game:
+
+1. Open terminal or command prompt
+2. Navigate to src folder
+3. Compile the program:
+   javac NumberGuessingGame.java
+4. Run the program:
+   java NumberGuessingGame
+5. Follow on-screen instructions to play the game
