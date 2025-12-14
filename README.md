@@ -1,24 +1,51 @@
-# Task 04 – Online Examination System
+Online Examination System
 
-This repository contains Task 04 of the OASIS INFOBYTE Java Developer Internship.
+This project is part of Task 04 of the OASIS INFOBYTE Java Developer Internship.
 
-The Online Examination System is a Java console based application that simulates a basic online exam process. It allows a user to log in, attempt multiple choice questions, and view the final score after completion of the exam.
+The Online Examination System is a Java console based application that simulates an online exam environment where users can log in, answer multiple choice questions, and view their final score.
 
-## Project Structure
-The main project files are available inside the `04_Online_Examination` folder, which includes:
-- Source code
-- SQL schema
-- Project documentation
+📌 Features
+User login
+Multiple choice questions
+Automatic score calculation
+Result display after exam completion
 
-## Technologies Used
-- Core Java
-- Java Scanner and control statements
-- Console based application
+🛠 Tech Stack
+Java
+Core Java concepts
+Java Scanner
+Console based interaction
 
-## Task Objective
-To demonstrate core Java programming skills such as user input handling, conditional logic, method usage, and basic application flow.
+⚙️ How It Works
+User logs in using credentials
+System displays multiple choice questions
+User selects answers for each question
+Score is calculated automatically
+Final result is displayed at the end of the exam
 
-## Internship
-OASIS INFOBYTE  
-Java Developer Internship  
-Task 04 – Online Examination System
+▶️ How to Run
+Open terminal or command prompt
+
+Navigate to src folder
+
+Compile the Java file:
+
+javac OnlineExamination.java
+
+Run the program:
+
+java OnlineExamination
+
+📂 Project Structure
+04_Online_Examination/
+├── README.md
+├── src/
+│   └── OnlineExamination.java
+├── sql/
+│   └── schema.sql
+└── docs/
+    └── project-overview.txt
+
+👤 Author
+Sainath Shirfule  
+Java Developer Intern – OASIS INFOBYTE
