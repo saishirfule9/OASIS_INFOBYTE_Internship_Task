@@ -1,0 +1,6 @@
+Online Examination System is a Java console based application.
+It simulates a simple exam environment with user login, multiple choice questions,
+and automatic result calculation.
+
+This project demonstrates core Java concepts such as methods, conditionals,
+and user input handling.
