@@ -4,7 +4,6 @@ This repository contains all the tasks I completed during my Java Developer inte
 Each task is stored in a separate branch so you can switch and explore them easily.
 
 
-
 ---
 
 ## 🌐 How to View the Tasks
